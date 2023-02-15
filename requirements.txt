@@ -1,0 +1,16 @@
+Flask
+sklearn
+pandas 
+matplotlib
+numpy
+boto3
+Flask
+Flask_Cors
+hvac
+PyJWT
+PyMySQL
+zenpy
+gunicorn
+pandas
+seaborn
+gunicorn
